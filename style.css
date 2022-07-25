@@ -1,0 +1,206 @@
+body {
+    background-color: white;
+    text-align: center;
+    font-style: bold;
+    font-family: 'Segoe UI';
+}
+
+h1 {
+    color: red;
+    background-color: white;
+    text-align: left;
+    font-size: 100px;
+    font-style: bold;
+    font-family: 'Segoe UI';
+}
+
+#header img {
+    max-width: 300px;
+    background-color: white;
+}
+
+h4 {
+    background-color: white;
+    text-align: center;
+    font-size: 50px;
+    font-style: bold;
+    font-family: 'Segoe UI';
+}
+
+h6 {
+    background-color: white;
+    text-align: center;
+    font-size: 50px;
+    font-style: bold;
+    font-family: 'Segoe UI';
+}
+
+h7 {
+    background-color: white;
+    text-align: center;
+    font-size: 50px;
+    font-style: bold;
+    font-family: 'Segoe UI';
+}
+
+/* Mercedes */
+.mercedes {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    color:mediumaquamarine;
+    
+
+}
+
+.drivers {
+    display: flex;
+    justify-content: center;
+    font-size: 30px;
+}
+
+.lewis {
+    margin: 0 8px;
+    font-size: 30px;
+}
+
+.lewis img {
+    max-width: 450px;
+}
+
+.george {
+    margin: 0 8px;
+    font-size: 30px;
+}
+
+.george img {
+    max-width: 450px;
+}
+
+.w13 img {
+    max-width: 750px;
+}
+
+/* Red Bull Racing */
+.redbull {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    color:darkred;
+    
+
+}
+
+.drivers {
+    display: flex;
+    justify-content: center;
+    font-size: 30px;
+}
+
+.max {
+    margin: 0 8px;
+    font-size: 30px;
+}
+
+.max img {
+    max-width: 450px;
+}
+
+.sergio {
+    margin: 0 8px;
+    font-size: 30px;
+}
+
+.sergio img {
+    max-width: 450px;
+}
+
+.rb18 img {
+    max-width: 750px;
+}
+
+/* Ferrari */
+.ferrari {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    color:red;
+    
+
+}
+
+.drivers {
+    display: flex;
+    justify-content: center;
+    font-size: 30px;
+}
+
+.charles {
+    margin: 0 8px;
+    font-size: 30px;
+}
+
+.charles img {
+    max-width: 450px;
+}
+
+.carlos {
+    margin: 0 8px;
+    font-size: 30px;
+}
+
+.carlos img {
+    max-width: 450px;
+}
+
+.f175 img {
+    max-width: 750px;
+}
+
+/* McLaren */
+
+.mclaren {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    color:orange;
+    
+
+}
+
+.drivers {
+    display: flex;
+    justify-content: center;
+    font-size: 30px;
+}
+
+.lando {
+    margin: 0 8px;
+    font-size: 30px;
+}
+
+.lando img {
+    max-width: 450px;
+}
+
+.daniel {
+    margin: 0 8px;
+    font-size: 30px;
+}
+
+.daniel img {
+    max-width: 450px;
+}
+
+.mcl36 img {
+    max-width: 750px;
+}
+/* Comments */
+#comment {
+    color:black;
+    background-color: white;
+    text-align: left;
+    font-size: 20px;
+    font-style: bold;
+    font-family: 'Segoe UI';
+}
