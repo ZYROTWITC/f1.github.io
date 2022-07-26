@@ -195,6 +195,229 @@ h7 {
 .mcl36 img {
     max-width: 750px;
 }
+
+/* Alpine */
+.alpine {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    color:pink;
+    
+
+}
+
+.drivers {
+    display: flex;
+    justify-content: center;
+    font-size: 30px;
+}
+
+.alonso {
+    margin: 0 8px;
+    font-size: 30px;
+}
+
+.alonso img {
+    max-width: 450px;
+}
+
+.ocon {
+    margin: 0 8px;
+    font-size: 30px;
+}
+
+.ocon img {
+    max-width: 450px;
+}
+
+.a522 img {
+    max-width: 750px;
+}
+/* Alfa Romeo */
+.alfaromeo {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    color:brown;
+    
+
+}
+
+.drivers {
+    display: flex;
+    justify-content: center;
+    font-size: 30px;
+}
+
+.bottas {
+    margin: 0 8px;
+    font-size: 30px;
+}
+
+.bottas img {
+    max-width: 450px;
+}
+
+.zhou {
+    margin: 0 8px;
+    font-size: 30px;
+}
+
+.zhou img {
+    max-width: 450px;
+}
+
+.c42 img {
+    max-width: 750px;
+}
+/* Haas Ferrari */
+.haas {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    color:silver;
+    
+
+}
+
+.drivers {
+    display: flex;
+    justify-content: center;
+    font-size: 30px;
+}
+
+.magnussen {
+    margin: 0 8px;
+    font-size: 30px;
+}
+
+.magnussen img {
+    max-width: 450px;
+}
+
+.schumacker {
+    margin: 0 8px;
+    font-size: 30px;
+}
+
+.schumacker img {
+    max-width: 450px;
+}
+
+.vf22 img {
+    max-width: 750px;
+}
+/* Alphatauri */
+.alphatauri {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    color:lightsteelblue;
+    
+
+}
+
+.drivers {
+    display: flex;
+    justify-content: center;
+    font-size: 30px;
+}
+
+.gasly {
+    margin: 0 8px;
+    font-size: 30px;
+}
+
+.gasly img {
+    max-width: 450px;
+}
+
+.tsunoda {
+    margin: 0 8px;
+    font-size: 30px;
+}
+
+.tsunoda img {
+    max-width: 450px;
+}
+
+.at03 img {
+    max-width: 750px;
+}
+/* Aston Martin Armaco Mercedes */
+.astonmartin {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    color:rgba(80, 94, 55, 0.836);
+    
+
+}
+
+.drivers {
+    display: flex;
+    justify-content: center;
+    font-size: 30px;
+}
+
+.vettel {
+    margin: 0 8px;
+    font-size: 30px;
+}
+
+.vettel img {
+    max-width: 450px;
+}
+
+.stroll {
+    margin: 0 8px;
+    font-size: 30px;
+}
+
+.stroll img {
+    max-width: 450px;
+}
+
+.amr22 img {
+    max-width: 750px;
+}
+/* Williams Mercededs */
+.williams {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    color:lightblue;
+    
+
+}
+
+.drivers {
+    display: flex;
+    justify-content: center;
+    font-size: 30px;
+}
+
+.albon {
+    margin: 0 8px;
+    font-size: 30px;
+}
+
+.albon img {
+    max-width: 450px;
+}
+
+.latifi {
+    margin: 0 8px;
+    font-size: 30px;
+}
+
+.latifi img {
+    max-width: 450px;
+}
+
+.fw44 img {
+    max-width: 750px;
+}
 /* Comments */
 #comment {
     color:black;
